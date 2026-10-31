@@ -9,3 +9,10 @@ Este repositório foi criado para praticar os principais comandos do Git e apren
 - Criar commits.
 - Publicar projetos no GitHub.
 - Aprender a trabalhar com branches.
+
+## Comandos que estou aprendendo
+
+- git init: inicializar um repositório.
+- git add: preparar arquivos.
+- git commit: registrar alterações.
+- git push: enviar alterações ao GitHub.
