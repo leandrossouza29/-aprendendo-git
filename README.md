@@ -16,3 +16,7 @@ Este repositório foi criado para praticar os principais comandos do Git e apren
 - git add: preparar arquivos.
 - git commit: registrar alterações.
 - git push: enviar alterações ao GitHub.
+
+- ## Atualizações
+
+Este projeto também está praticando o comando git pull.
