@@ -1,5 +1,3 @@
-Este é apenas um teste>>
-
 # Aprendendo Git e GitHub
 
 Este repositório foi criado para praticar os principais comandos do Git e aprender a utilizar o GitHub.
